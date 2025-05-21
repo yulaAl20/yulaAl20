@@ -36,7 +36,9 @@ I'm passionate about achieving success through continuous learning and collabora
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yulani-alwis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yulani-alwis)    [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=orange)](https://www.instagram.com/_yula_a/) 
+
+
 
 ---
 
