@@ -2,7 +2,7 @@
 
 🌟 **QA Engineer @ Seylan Bank, Sri Lanka**  
 🎓 **Software Engineering Student**  
-🚀 **Aspiring DevOps Enthusiast**
+
 
 ---
 
