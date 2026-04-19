@@ -8,7 +8,7 @@
 
 ## 💼 About Me
 
-Hi! I'm Yulani, a passionate QA Engineer by day and a dedicated Software Engineering student by night. I thrive on solving problems, building cool things, and making sure software works like a charm. Currently, I'm sharpening my skills in DevOps and aiming to make a real impact in the tech world!
+Hi! I'm Yulani, a passionate QA Engineer by day and a dedicated Software Engineering student by night. I thrive on solving problems, building cool things, and making sure software works like a charm. 
 
 ---
 
